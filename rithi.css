@@ -1,0 +1,20 @@
+.t{
+    align-content: center;
+    padding: 0;
+    display: flex;
+    background: -webkit-linear-gradient(#03b0b6, #97009c);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.r{
+    align-content: center;
+    padding: 0;
+    display: flex;
+    background: -webkit-linear-gradient(#df5193, #58e6f0);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.nav-container a.active {
+    background-color: #c92b5f;
+    color: white;
+}
